@@ -14,3 +14,14 @@ body {
 img {
   width: 300px;
 }
+.card {
+  text-align: left;
+}
+
+.card ul {
+  padding-left: 20px;
+}
+
+.card li {
+  margin-bottom: 6px;
+}
