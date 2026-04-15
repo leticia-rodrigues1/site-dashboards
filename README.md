@@ -1,32 +1,25 @@
-👩🏻‍💻 Portfólio de Dashboards - Letícia Rodrigues
+🌐 Portfólio de Dashboards
 
-🎓 Administração | Pós-graduação em Gestão de Projetos
+Este repositório contém o site desenvolvido para apresentar meus dashboards de análise de dados.
 
-💻 Análise e Desenvolvimento de Sistemas (em andamento)
+🔗 Acesse o site:  https://leticia-rodrigues1.github.io/portfolio-dashboards/
 
-📊 Em transição para a área de Dados
+📊 Sobre os dashboards
 
-🌐 Acesse meu portfólio online
+Os painéis foram desenvolvidos com foco em:
 
-🔗 Clique aqui para visualizar meus dashboards:
-👉 https://leticia-rodrigues1.github.io/portfolio-dashboards/
+Visualização de dados
+
+Análise de informações
+
+Geração de insights
+
+🛠️ Ferramentas utilizadas
+
+Power BI
 
 🎯 Objetivo
 
-Este portfólio foi desenvolvido com o objetivo de demonstrar minhas habilidades na área de dados, incluindo:
+Criar um espaço online para apresentar meus projetos e demonstrar minhas habilidades na área de dados.
 
-Análise de dados
-
-Criação de dashboards
-
-Organização de informações
-
-Comunicação visual
-
-🚀 Sobre mim
-
-Sou uma profissional com experiência na área bancária e atualmente em transição para a área de dados.
-
-Tenho me dedicado ao aprendizado contínuo em ferramentas como Power BI, SQL e Python, buscando oportunidades para aplicar meus conhecimentos e crescer na área.
-
-✨ Obrigada por visitar meu portfólio!
+✨ Projeto desenvolvido como parte do meu portfólio profissional
